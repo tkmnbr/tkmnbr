@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nobo
 - 🌱 I’m currently learning C++, Java, Python
-- 📫 t.nbr0304@gmail.com
+- 📫 tkmnbrGit@gmail.com
 - instagram->https://www.instagram.com/tkmnbr/
 <!---
 tkmnbr/tkmnbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
