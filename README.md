@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nobo
-- 🌱 I’m currently learning C++, Java, Python
+- 🌱 I’m currently learning C++, C#, Java.
 - 📫 tkmnbrGit@gmail.com
 - instagram->https://www.instagram.com/tkmnbr/
 <!---
