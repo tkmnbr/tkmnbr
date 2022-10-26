@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nobo
+- 👋 Hi, I’m Noboru
 - 🌱 I’m currently learning C++, C#, Java.
 - 📫 tkmnbrGit@gmail.com
 - instagram->https://www.instagram.com/tkmnbr/
