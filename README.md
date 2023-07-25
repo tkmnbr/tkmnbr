@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Noboru.
-- 📚 Student at the University of California, Davis
 - 🌱 C++, C#, Java, Swift, Python
 - 📫 tkmnbrGit@gmail.com
 <!---
