@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Noboru.
-- 🌱 C++, C#, Java, Swift, Python
+- 🌱 C++, C#, Java, Swift, Python, SQL
 - 📫 tkmnbrGit@gmail.com
 <!---
 tkmnbr/tkmnbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
